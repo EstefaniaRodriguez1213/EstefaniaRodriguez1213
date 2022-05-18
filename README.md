@@ -20,8 +20,6 @@
 <div style="display:flex; align-items:center">
 
   <img align="left" style="margin-right:5px" alt="C#" width="54px" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" />
-  
-   <img align="left" style="margin-right:5px" alt="Phyton" width="70px" src="https://www.w3resource.com/w3r_images/python-pandas.svg" />
 
    <img align="left" style="margin-right:5px" alt="HCJs" width="120px" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" />
   
