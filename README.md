@@ -19,15 +19,11 @@
 
 <div style="display:flex; align-items:center">
 
-  <img align="left" style="margin-right:5px" alt="Phyton" width="70px" src="https://www.w3resource.com/w3r_images/python-pandas.svg" />
-
-   <img align="left" style="margin-right:5px" alt="Power BI" width="50px" src="https://i0.wp.com/mundowin.com/wp-content/uploads/2020/02/Can-I-use-Power-Bi-for-Free.jpg?w=832&ssl=1" />
-
-  <img align="left" style="margin-right:5px" alt="Tableau" width="100px" src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook" />
-
-   <img align="left" style="margin-right:5px" alt="C#" width="54px" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" />
+  <img align="left" style="margin-right:5px" alt="C#" width="54px" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" />
   
-   <img align="left" style="margin-right:5px" alt="Jupiter" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+   <img align="left" style="margin-right:5px" alt="Phyton" width="70px" src="https://www.w3resource.com/w3r_images/python-pandas.svg" />
+
+   <img align="left" style="margin-right:5px" alt="HCJs" width="54px" src="[https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png](http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)" />
   
    <img align="left" style="margin-right:5px" alt="SQL" width="120px" src="https://asphostcentral.com/Images/sqlserver2016.png" />
  <br/>
