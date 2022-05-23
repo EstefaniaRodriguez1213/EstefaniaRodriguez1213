@@ -1,7 +1,8 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
 
 <p>
- Soy desarrolladora de software junior. Y en este perfil podrás ver algunos de mis proyectos. Estoy lista para seguir aprendiendo :smile: :books: :muscle:
+ Soy desarrolladora de software junior. Y en este perfil podrán ver algunos de mis proyectos. Espero que les guste!
+ Sin embargo, estoy lista para seguir aprendiendo :smile: :books: :muscle:
 <br/>
 
   
@@ -9,7 +10,7 @@
 
 -   👨🏽‍💻 Actualmente trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
 -   💻 Fui desarrolladora de software en [DealerMovil]()  ♥️
--   📕 Estoy aprendiendo más sobre desarrollo por medio de cursos o videos tutoriales que veo en YouTube.
+-   📕 Estoy aprendiendo más sobre desarrollo por medio de cursos que hago o videos que veo en YouTube.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, estudio o salgo a caminar ! 😄👩
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
 -   🔷 Mi LinkedIn 👉 [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
