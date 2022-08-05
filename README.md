@@ -26,7 +26,7 @@
   
    <img align="left" style="margin-right:5px" alt="SQL" width="120px" src="https://asphostcentral.com/Images/sqlserver2016.png" />
  
-  <img align="left" style="margin-right:5px" alt="ReactJs" width="120px" src="[https://asphostcentral.com/Images/sqlserver2016.png](https://cms-assets.tutsplus.com/cdn-cgi/image/width=400/uploads/users/1125/posts/30546/preview_image/RN.jpg)" />
+  <img align="left" style="margin-right:5px" alt="ReactJs" width="120px" src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=400/uploads/users/1125/posts/30546/preview_image/RN.jpg" />
  <br/>
 </div>
 
