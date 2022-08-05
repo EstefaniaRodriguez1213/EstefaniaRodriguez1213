@@ -2,7 +2,7 @@
 
 <p>
  Soy desarrolladora de software junior. Y en este perfil podrán ver algunos de mis proyectos. Espero que les guste!
- Sigo aprendiendo :smile: :books: :muscle:
+<br/>Mientras, sigo aprendiendo :smile: :books: :muscle:
 <br/>
 
   
