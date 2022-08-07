@@ -1,7 +1,7 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
 
 <p>
- Soy desarrolladora de software junior. Y en este perfil podrán ver algunos de mis proyectos. Espero que les guste!
+ Soy analista programadora de software junior. Y en este perfil podrán ver algunos de mis proyectos. Espero que les guste!
 <br/>Mientras, sigo aprendiendo :smile: :books: :muscle:
 <br/>
 
