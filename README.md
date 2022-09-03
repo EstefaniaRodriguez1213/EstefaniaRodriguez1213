@@ -1,7 +1,7 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
 
 <p>
-  Me dedico a la programadora de software frontend y tengo un seniority junior. En este perfil podrán ver algunos de mis proyectos. Espero que les guste!
+  Me dedico a la programadocion de software frontend y tengo un seniority junior. En este perfil podrán ver algunos de mis proyectos. Espero que les guste!
 <br/>Mientras tanto, sigo aprendiendo y capacitandome :smile: :books: :muscle:
 <br/>
 
