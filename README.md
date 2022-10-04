@@ -2,7 +2,7 @@
 <p>Mucho gusto!
 <p>
   Te cuento que me gusta mucho la programacion de software frontend y las bases de datos. Actualmente tengo un seniority junior. <br/>
-  En este perfil podrán ver algunos de mis proyectos. Espero que les guste!
+  En este perfil podrán ver algunos de mis proyectos hechos en react y otros en .NET C#. Espero que les guste!
 <br/>Mientras tanto, sigo aprendiendo y capacitandome :smile: :books: :muscle:
 <br/>
 
