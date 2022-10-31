@@ -11,7 +11,7 @@
 -   👷 Trabajo en [AR Consultores]() como Project Manager Scrum Master
 -   👷 Trabajé en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
 -   💻 Fui desarrolladora de software en [DealerMovil]()  ♥️
--   📕 Estoy aprendiendo más sobre desarrollo por medio de cursos que hago o videos que veo en YouTube ya que el desarrollo frontend es un area que me gusta mucho.
+-   📕 Me gusra aprender sobre desarrollo de software y estrategias para analisis de información. Soy curiosa y por lo general veo videos en YouTube o me capacito realizando cursos.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, estudio o salgo a caminar ! 😄👩
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
 -   🔷 Mi LinkedIn 👉 [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
