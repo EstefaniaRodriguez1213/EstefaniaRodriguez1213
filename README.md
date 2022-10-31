@@ -25,6 +25,9 @@
   <img align="left" style="margin-right:5px" alt="HCJs" width="120px" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" />
   <img align="left" style="margin-right:5px" alt="SQL" width="120px" src="https://asphostcentral.com/Images/sqlserver2016.png" />
   <img align="left" style="margin-right:5px" alt="ReactJs" width="100px" src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=400/uploads/users/1125/posts/30546/preview_image/RN.jpg" />
+     <img align="left" style="margin-right:5px" alt="Jupiter" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+     <img align="left" style="margin-right:5px" alt="Phyton" width="70px" src="https://www.w3resource.com/w3r_images/python-pandas.svg" />
+      <img align="left" style="margin-right:5px" alt="Power BI" width="50px" src="https://i0.wp.com/mundowin.com/wp-content/uploads/2020/02/Can-I-use-Power-Bi-for-Free.jpg?w=832&ssl=1" />
  <br/>
 </div>
 
