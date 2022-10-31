@@ -1,15 +1,15 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
 <p>Mucho gusto!
 <p>
-  Les cuento que me gusta mucho la programacion de software frontend. <br/>
-  En este perfil podrán ver algunos de mis proyectos hechos en react y otros en .NET C#. Espero que les guste!
+  Les cuento que me gusta mucho la programacion de software y el analisis de datos/informacion. <br/>
+  En este perfil podrán ver algunos de mis proyectos hechos en react y otros en .NET C#, como asi tambien Dashboards. Espero que les guste!
 <br/>Mientras tanto, sigo aprendiendo y capacitandome :smile: :books: :muscle:
 <br/>
 
   
 ### ✨ Sobre mi
-
--   👷 Trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
+-   👷 Trabajo en [AR Consultores]() como Project Manager Scrum Master
+-   👷 Trabajé en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
 -   💻 Fui desarrolladora de software en [DealerMovil]()  ♥️
 -   📕 Estoy aprendiendo más sobre desarrollo por medio de cursos que hago o videos que veo en YouTube ya que el desarrollo frontend es un area que me gusta mucho.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, estudio o salgo a caminar ! 😄👩
