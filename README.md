@@ -1,5 +1,5 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
-<p>Mucho gusto!
+<p>Mucho gusto y bienvendid@!
 <p>
   Les cuento que me gusta mucho la programacion de software y el analisis de datos/informacion. <br/>
   En este perfil podrán ver algunos de mis proyectos hechos en react y otros en .NET C#, como asi tambien Dashboards. Espero que les guste!
