@@ -3,7 +3,9 @@
  
   
 ### ✨ Sobre Mi:
-- Aficionada de la tecnologia y las buenas practicas. Amante del trabajo en equipo y metodologias agiles.
+- Aficionada de la tecnologia y las buenas prácticas. 
+- Amante del trabajo en equipo y metodologias ágiles.
+- Muy activa en el análisis de datos e información para la creación de estrategias y toma de decisiones.
 - Me gusta mucho la programación tanto backend como frontend.
   
 ### ✨ Experiencias Laborales:
