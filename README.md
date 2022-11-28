@@ -4,7 +4,7 @@
   
 ### ✨ Sobre Mi:
 - Aficionada de la tecnologia y las buenas practicas. Amante del trabajo en equipo y metodologias agiles.
-- Me gusta mucho el codigo tanto backend como frontend.
+- Me gusta mucho la programación tanto backend como frontend.
   
 ### ✨ Experiencias Laborales:
 -   👷 Trabajo en [AR Consultores]() como Scrum Master
