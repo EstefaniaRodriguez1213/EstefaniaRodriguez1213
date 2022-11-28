@@ -1,8 +1,13 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
 <p>Mucho gusto y bienvenid@!
+ 
   
-### ✨ Sobre mi
--   👷 Trabajo en [AR Consultores]() como Project Manager Scrum Master
+### ✨ Sobre Mi:
+- Aficionada de la tecnologia y las buenas practicas. Amante del trabajo en equipo y metodologias agiles.
+- Me gusta mucho el codigo tanto backend como frontend.
+  
+### ✨ Experiencias Laborales:
+-   👷 Trabajo en [AR Consultores]() como Scrum Master
 -   👷 Trabajé en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
 -   💻 Fui desarrolladora de software en [DealerMovil]()  ♥️
 -   📕 Me gusra aprender sobre desarrollo de software y estrategias para analisis de información. Soy curiosa y por lo general veo videos en YouTube o me capacito realizando cursos.
@@ -11,10 +16,9 @@
 -   🔷 Mi LinkedIn 👉 [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
 
   
-### 🛠️ Languajes y Herramientas:
+### 🛠️ Languajes y Herramientas que sé y uso:
 
 <div style="display:flex; align-items:center">
-
   <img align="left" style="margin-right:5px" alt="C#" width="54px" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" />
   <img align="left" style="margin-right:5px" alt="HCJs" width="120px" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" />
   <img align="left" style="margin-right:5px" alt="SQL" width="120px" src="https://asphostcentral.com/Images/sqlserver2016.png" />
@@ -29,7 +33,3 @@
 <br/>
 
 ---
-  
-
-
-
