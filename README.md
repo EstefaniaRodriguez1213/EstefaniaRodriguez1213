@@ -5,11 +5,9 @@
 ### ✨ Sobre Mi:
 - Aficionada de la tecnologia y las buenas prácticas. 
 - Amante del trabajo en equipo y metodologias ágiles.
-- Muy activa en el análisis de datos e información para la creación de estrategias y toma de decisiones.
 - Me gusta mucho la programación tanto backend como frontend.
   
 ### ✨ Experiencias Laborales:
--   👷 Trabajo en [AR Consultores]() como Scrum Master
 -   👷 Trabajé en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
 -   💻 Fui desarrolladora de software en [DealerMovil]()  ♥️
 -   📕 Me gusra aprender sobre desarrollo de software y estrategias para analisis de información. Soy curiosa y por lo general veo videos en YouTube o me capacito realizando cursos.
