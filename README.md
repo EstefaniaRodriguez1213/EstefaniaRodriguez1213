@@ -27,7 +27,7 @@
      <img align="left" style="margin-right:5px" alt="Jupiter" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
  <img align="left" style="margin-right:5px" alt="Angular" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
   <img align="left" style="margin-right:5px" alt="Jira" width="100px" src="https://www.tesoreria.gba.gov.ar/jira/images/atlassian-jira-logo-large.png" />
- <img align="left" style="margin-right:5px" alt="Teams" width="100px" src="https://apen.es/wp-content/uploads/2020/11/microsoft-team-300x300.png" />
+ <img align="left" style="margin-right:5px" alt="Teams" width="80px" src="https://apen.es/wp-content/uploads/2020/11/microsoft-team-300x300.png" />
       <img align="left" style="margin-right:5px" alt="Power BI" width="50px" src="https://i0.wp.com/mundowin.com/wp-content/uploads/2020/02/Can-I-use-Power-Bi-for-Free.jpg?w=832&ssl=1" />
  <br/>
 </div>
