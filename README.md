@@ -4,14 +4,14 @@
   
 ### ✨ Sobre Mi:
 - Aficionada de la tecnologia y las buenas prácticas. 
-- Amante del trabajo en equipo y metodologias ágiles.
-- Me gusta mucho la programación tanto backend como frontend.
+- Feliz con el trabajo en equipo y las metodologias ágiles.
+- Me gusta mucho la programación frontend.
   
 ### ✨ Experiencias Laborales:
--   👷 Trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
+-   👷 Trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional 
 -   💻 Fui desarrolladora de software en [DealerMovil]()  ♥️
--   📕 Me gusra aprender sobre desarrollo de software y estrategias para analisis de información. Soy curiosa y por lo general veo videos en YouTube o me capacito realizando cursos.
--   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, estudio o salgo a caminar ! 😄👩
+-   📕 Me gusra aprender sobre desarrollo de software. Soy curiosa y por lo general veo videos en YouTube o me capacito realizando cursos. Practico desarrollo frontend  por mi cuenta.
+-   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, comparto tiempo con amigos ! 😄👩
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
 -   🔷 Mi LinkedIn 👉 [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
 
